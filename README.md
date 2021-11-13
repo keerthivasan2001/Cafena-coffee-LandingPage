@@ -1,2 +1,2 @@
 # Cafena-coffee-LandingPage
-https://cafena-coffee-webpage.netlify.app
+https://cafena-coffee.netlify.app
